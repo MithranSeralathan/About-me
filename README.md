@@ -1,4 +1,4 @@
-### Hi, My name is Mithran
+### Hi, this is Mithran
 #### Data analyst
 I’m currently practicing data analytics and I have completed Google Data Analytics Professional Certificate on Coursera, where I have learned to use tools such as Excel, Tableau, SQL, and R programming,
 
