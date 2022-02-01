@@ -1,6 +1,6 @@
 ### Hi, this is Mithran
 #### Data analyst
-I’m currently practicing data analytics and I have completed Google Data Analytics Professional Certificate on Coursera, where I have learned to use tools such as Excel, Tableau, SQL, and R programming,
+I’m currently practicing data analytics and I have completed [Google Data Analytics Professional Certification](https://coursera.org/share/82991f19bf016563a82de46c56c5d4bd) on Coursera, where I have learned to use tools such as Excel, Tableau, SQL, and R programming,
 
 About my previous work experience: Worked as a contract admin for 3yrs, where I have found that I can able to do more technical work and fallen love with data analytics and learned data analytics through Coursera then here I'm with still that interest and looking for a junior data analyst job.
 
